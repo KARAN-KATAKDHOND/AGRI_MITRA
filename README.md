@@ -1,19 +1,87 @@
-# my_app
+# 🌾 AgriMitra
 
-A new Flutter project created with FlutLab - https://flutlab.io
+AgriMitra is a user-friendly **E-commerce platform** tailored for **farmers**, offering access to a wide range of farming tools, fertilizers, pesticides, and more — all in one place. It also features an **interactive Learning Section** to empower farmers with the latest agricultural technologies.
 
-## Getting Started
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Preview
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+> 🖼️ *Add screenshots here once the frontend UI is complete.*
+![Home Screen](screenshots/home_screen.png)
+![Learning Section](screenshots/learning_section.png)
+<!-- Example:
+![Home Screen](screenshots/home_screen.png)
+![Learning Section](screenshots/learning_section.png)
+-->
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
-## Getting Started: FlutLab - Flutter Online IDE
+## 🚀 Features
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- ✅ Wide range of farming tools at **minimum cost** from suppliers.
+- 📦 **On-time delivery** of ordered items.
+- 📚 **Learning Section** for educating farmers about the latest farming technologies.
+- 🖥️ **User-friendly interface** with smooth navigation.
+- 🔐 **Secure payments** and **doorstep delivery**.
+
+---
+
+## 💡 Benefits for Farmers
+
+- Access everything in one place — tools, products, and information.
+- Stay updated on the **latest tech in agriculture**.
+- Increase crop **productivity and yield** using the right tools.
+- Save time with **easy online purchasing**.
+
+---
+
+## 🛠 Tech Stack
+
+| Component       | Technology Used      |
+|----------------|----------------------|
+| Frontend        | Flutter               |
+| Database        | SQL                  |
+| APIs Integrated | - Google Maps API  
+                  - Razorpay API  
+                  - OpenWeatherMap API  
+                  - **AgriBuddy API**: Crop advisory, market linkages, and financial services |
+
+---
+
+## 📌 Project Status
+
+> 🔧 Currently, **only the frontend** is available. Backend development and integration are in progress.
+
+---
+
+## 🔭 Future Scope
+
+- ✅ Full backend integration with APIs.
+- 📈 Farmer dashboard with crop analysis and earnings tracking.
+- 🧠 AI-based crop recommendation system.
+- 🔔 Notification system for weather alerts, subsidies, and tech news.
+- 🌐 Multi-language support for better accessibility.
+- 🤝 Community forum for farmers.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📄 License
+
+This project is not yet licensed.
+
+---
+
+## 🙌 Acknowledgements
+
+- APIs by [AgriBuddy](https://agribuddy.com)
+- Payment gateway by [Razorpay](https://razorpay.com)
+- Weather data from [OpenWeatherMap](https://openweathermap.org)
+
+---
+

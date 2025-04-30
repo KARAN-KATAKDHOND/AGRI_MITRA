@@ -75,8 +75,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📄 License
 
-This project is not yet licensed.
+This project is licensed under the Proprietary License.
 
+Terms:
+You may use the code solely for personal or internal business purposes.
+
+You may not modify, distribute, or create derivative works based on this code without explicit permission.
+
+Redistribution, sublicensing, or leasing the software is not permitted.
+
+For any other usage or permissions, please contact the author at [karankatakdhond@gmail.com].
 ---
 
 ## 🙌 Acknowledgements

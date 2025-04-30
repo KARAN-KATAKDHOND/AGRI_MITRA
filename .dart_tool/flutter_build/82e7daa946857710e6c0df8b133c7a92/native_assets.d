@@ -1,0 +1,1 @@
+ C:\\Users\\KARAN\\Desktop\\FLUTTER\\Agri_Mitra\\.dart_tool\\flutter_build\\82e7daa946857710e6c0df8b133c7a92\\native_assets.yaml: 

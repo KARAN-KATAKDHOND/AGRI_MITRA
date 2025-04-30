@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.my_app-mergeReleaseResources-29:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KARAN\\.gradle\\caches\\8.10.2\\transforms\\92d0bb20aae338a9a2af0c943e6ccd0a\\transformed\\jetified-standard-core-1.6.49\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,15",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,871"
+                    }
+                }
+            ]
+        }
+    ]
+}

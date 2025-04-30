@@ -7,8 +7,8 @@ AgriMitra is a user-friendly **E-commerce platform** tailored for **farmers**, o
 ## 📱 Preview
 
 > 🖼️ *Add screenshots here once the frontend UI is complete.*
-![Home Screen](screenshots/home_screen.png)
-![Learning Section](screenshots/learning_section.png)
+![Home Screen](screenshots/home.jpg)
+![Learning Section](screenshots/learning.jpg)
 <!-- Example:
 ![Home Screen](screenshots/home_screen.png)
 ![Learning Section](screenshots/learning_section.png)
